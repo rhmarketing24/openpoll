@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x7E57b5d423e7c3320c54712db977F43Ba12ff28"
+  }
+}
