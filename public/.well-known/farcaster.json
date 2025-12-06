@@ -13,7 +13,7 @@
     "version": "1",
     "iconUrl": "https://openpoll-app.vercel.app/icon.png",
     "homeUrl": "https://openpoll-app.vercel.app/",
-    "splashImageUrl": "https://openpoll-app.vercel.app/splash.png",
+    "splashImageUrl": "https://openpoll-app.vercel.app/splashh.png",
     "splashBackgroundColor": "#000000",
     "primaryCategory": "social",
     "tags": ["poll", "voting", "realtime", "miniapp"]
