@@ -15,7 +15,8 @@
     "homeUrl": "https://openpoll-app.vercel.app/",
     "splashImageUrl": "https://openpoll-app.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
+    "previewImageUrl": "https://openpoll-app.vercel.app/preview.png",
     "primaryCategory": "social",
-    "tags": ["poll", "voting", "realtime", "miniapp"]
+    "tags": ["poll", "voting", "miniapp"]
   }
 }
